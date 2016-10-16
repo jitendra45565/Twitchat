@@ -10,7 +10,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 gem 'rails-controller-testing'
-
+gem 'bcrypt'
 
 group :development, :test do
   gem 'byebug', platform: :mri
