@@ -11,6 +11,10 @@ gem 'turbolinks'
 gem 'jbuilder'
 gem 'rails-controller-testing'
 gem 'bcrypt'
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
+
 
 group :development, :test do
   gem 'byebug', platform: :mri
